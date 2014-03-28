@@ -16,19 +16,15 @@ A lightweight plugin that allows you to place a sitewide alert message in the he
 
 == Installation ==
 
-This section describes how to install the plugin and get it working.
-
-e.g.
-
-1. Upload `plugin-name.php` to the `/wp-content/plugins/` directory
-1. Activate the plugin through the 'Plugins' menu in WordPress
-1. Place `<?php do_action('plugin_name_hook'); ?>` in your templates
+1. Install the plugin though the Wordpress plugin interface.
+2. Configure the plugin in Settings > Site Alert
+3. Enjoy.
 
 == Frequently Asked Questions ==
 
-= Where do I configure the options? =
+= Where do I configure the plugin? =
 
-You will find a menu option in the 'settings' admin menu.
+You will find a menu option in the 'settings' admin menu entitled Site Alert.
 
 == Screenshots ==
 
