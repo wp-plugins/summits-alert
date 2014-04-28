@@ -2,7 +2,7 @@
 Contributors: eisenivan
 Donate link: http://thosewhodig.net/
 Tags: announcements
-Requires at least: 3.0.1
+Requires at least: 3.6
 Tested up to: 3.9
 Stable tag: Trunk
 License: GPLv2 or later
